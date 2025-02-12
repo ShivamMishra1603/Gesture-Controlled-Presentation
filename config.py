@@ -1,0 +1,15 @@
+# Camera Parameters
+WIDTH = 1535
+HEIGHT = 790
+GESTURE_THRESHOLD_Y = 300
+GESTURE_THRESHOLD_X = 800
+
+# Slide Parameters
+FOLDER_PATH = "Slides"
+
+# Hand Detection Parameters
+HAND_DETECTION_CONFIDENCE = 0.8
+MAX_HANDS = 1
+
+# Delay & Control
+SLIDE_CHANGE_DELAY = 30
