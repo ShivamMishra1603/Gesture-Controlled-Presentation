@@ -17,7 +17,7 @@ This project introduces a gesture-based presentation system that enhances user e
 
 ## System Workflow
 
-![alt text](assets\images\image.png)
+![alt text](assets/images/image.png)
 
 1. **Video Capture:** Frames are captured from the webcam using OpenCV.
 2. **Gesture Recognition:** MediaPipe and CVZone process gestures in real time.
@@ -48,17 +48,17 @@ This project introduces a gesture-based presentation system that enhances user e
 ## Presentation
 
 - Hand detection and landmark tracking
-![alt text](assets\images\image-1.png)
+![alt text](assets/images/image-1.png)
 - Pointer using index finger
-![alt text](assets\images\image-2.png)
+![alt text](assets/images/image-2.png)
 - Move to next slide
-![alt text](assets\images\image-3.png)
+![alt text](assets/images/image-3.png)
 - Move to previous slide
-![alt text](assets\images\image-4.png)
+![alt text](assets/images/image-4.png)
 - Draw on slide
-![alt text](assets\images\image-5.png)
+![alt text](assets/images/image-5.png)
 - Delete drawing from slide
-![alt text](assets\images\image-6.png)
+![alt text](assets/images/image-6.png)
 
 ## Testing and Validation
 
